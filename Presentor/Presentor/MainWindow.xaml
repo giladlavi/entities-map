@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Presentor"
         mc:Ignorable="d"
-        Title="MainWindow" Height="807" Width="1281">
+        Title="Entities Presenter" Height="807" Width="1281">
     <Canvas Height="807" Width="1281" Name="EntitiesMap">
         <Image Source="https://geology.com/world/world-map.gif" Width="{Binding Path=ActualWidth, ElementName=EntitiesMap}" Height="{Binding Path=ActualHeight, ElementName=EntitiesMap}" Stretch="Uniform" />
     </Canvas>
