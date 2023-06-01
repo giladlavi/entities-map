@@ -5,21 +5,32 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Creator"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
+        Title="Entities Creator" Height="328" Width="262">
+    <Grid Margin="0,0,-13,8">
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="48*"/>
-            <ColumnDefinition Width="12*"/>
+            <ColumnDefinition Width="17*"/>
+            <ColumnDefinition Width="4*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="4.488"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="9*"/>
+            <ColumnDefinition Width="41*"/>
             <ColumnDefinition Width="8*"/>
-            <ColumnDefinition Width="20"/>
-            <ColumnDefinition Width="10"/>
-            <ColumnDefinition Width="165*"/>
-            <ColumnDefinition Width="537*"/>
+            <ColumnDefinition Width="23*"/>
+            <ColumnDefinition Width="141*"/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="21*"/>
         </Grid.ColumnDefinitions>
-        <Button Content="Send" HorizontalAlignment="Left" Height="45" Margin="98,246,0,0" VerticalAlignment="Top" Width="106" Click="Button_Click" Grid.Column="5" Grid.ColumnSpan="2"/>
-        <TextBox x:Name="EntityName" HorizontalAlignment="Left" Height="45" Margin="117,31,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="87" TextChanged="TextBox_TextChanged" Grid.Column="5" Grid.ColumnSpan="2"/>
-        <TextBox x:Name="EntityX" HorizontalAlignment="Left" Height="45" Margin="117,95,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="87" TextChanged="TextBox_TextChanged" Grid.Column="5" Grid.ColumnSpan="2"/>
-        <TextBox x:Name="EntityY" HorizontalAlignment="Left" Height="45" Margin="117,161,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="87" TextChanged="TextBox_TextChanged" Grid.Column="5" Grid.ColumnSpan="2"/>
+
+        <Button x:Name="btnSend" Content="Send" HorizontalAlignment="Left" Height="33" Margin="0,237,0,0" VerticalAlignment="Top" Width="90" Click="Button_Click" Grid.Column="8" Grid.ColumnSpan="3" FontWeight="Bold"/>
+        <TextBox x:Name="EntityName" HorizontalAlignment="Left" Height="33" Margin="19,46,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="90"  Grid.Column="10" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+        <TextBox x:Name="EntityX" HorizontalAlignment="Left" Height="33" Margin="19,110,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="90"  Grid.Column="10" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+        <TextBox x:Name="EntityY" HorizontalAlignment="Left" Height="33" Margin="19,176,0,0" VerticalAlignment="Top" Width="90"  Grid.Column="10" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+        <TextBox Grid.Column="5" HorizontalAlignment="Left" Margin="2,110,0,0" TextWrapping="Wrap" Text="X" VerticalAlignment="Top" Width="90" Height="33" Grid.ColumnSpan="6" IsReadOnly="True" FontWeight="Bold" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"  />
+        <TextBox Grid.Column="5" HorizontalAlignment="Left" Margin="0,46,0,0" TextWrapping="Wrap" Text="Name" VerticalAlignment="Top" Width="90" Height="33" Grid.ColumnSpan="6" FontWeight="Bold" IsReadOnly="True" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"  />
+        <TextBox x:Name="___No_Name_" Grid.Column="4" HorizontalAlignment="Left" Margin="2,176,0,0" TextWrapping="Wrap" Text="Y" VerticalAlignment="Top" Width="90" Height="33" Grid.ColumnSpan="7" IsReadOnly="True" FontWeight="Bold" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
 
     </Grid>
 </Window>

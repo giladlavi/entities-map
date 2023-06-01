@@ -26,38 +26,40 @@ namespace Creator
     {
         private IConnection conn;
         private IModel channel;
+        const string exchangeName = "coordinates";
 
         public MainWindow()
         {
-
             var factory = new ConnectionFactory { HostName = "localhost" };
             this.conn = factory.CreateConnection();
             this.channel = this.conn.CreateModel();
-            channel.ExchangeDeclare(exchange: "coordinates", type: "fanout");
+            channel.ExchangeDeclare(exchange: exchangeName, type: "fanout");
 
-   
             InitializeComponent();
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
+            double x;
+            double y;
+            if (!Double.TryParse(EntityX.Text, out x) || !Double.TryParse(EntityY.Text, out y) || EntityName.Text == "")
+            {
+                return;
+            }
+           
             var entity = new Entity(
                 EntityName.Text,
-                Double.Parse(EntityX.Text),
-                Double.Parse(EntityY.Text)
+                x,
+                y
             );
 
             var body = Encoding.UTF8.GetBytes(JsonSerializer.Serialize(entity));
 
-            this.channel.BasicPublish(exchange: "coordinates",
+            this.channel.BasicPublish(exchange: exchangeName,
                                  routingKey: "",
                                  basicProperties: null,
                                  body: body);
         }
 
-        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
-        {
-
-        }
     }
 }
