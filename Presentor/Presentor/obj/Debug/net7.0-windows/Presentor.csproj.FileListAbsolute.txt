@@ -44,3 +44,26 @@ D:\תכנות\פרוייקטים 2023\aeronautics_task\Presentor\Presentor\obj\D
 D:\תכנות\פרוייקטים 2023\aeronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\Presentor.pdb
 D:\תכנות\פרוייקטים 2023\aeronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\Presentor.genruntimeconfig.cache
 D:\תכנות\פרוייקטים 2023\aeronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\ref\Presentor.dll
+C:\Users\GiladFX\Source\Repos\auronautics_task\Presentor\Presentor\bin\Debug\net7.0-windows\Presentor.exe
+C:\Users\GiladFX\Source\Repos\auronautics_task\Presentor\Presentor\bin\Debug\net7.0-windows\Presentor.deps.json
+C:\Users\GiladFX\Source\Repos\auronautics_task\Presentor\Presentor\bin\Debug\net7.0-windows\Presentor.runtimeconfig.json
+C:\Users\GiladFX\Source\Repos\auronautics_task\Presentor\Presentor\bin\Debug\net7.0-windows\Presentor.dll
+C:\Users\GiladFX\Source\Repos\auronautics_task\Presentor\Presentor\bin\Debug\net7.0-windows\Presentor.pdb
+C:\Users\GiladFX\Source\Repos\auronautics_task\Presentor\Presentor\bin\Debug\net7.0-windows\RabbitMQ.Client.dll
+C:\Users\GiladFX\Source\Repos\auronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\Presentor.csproj.AssemblyReference.cache
+C:\Users\GiladFX\Source\Repos\auronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\GiladFX\Source\Repos\auronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\GiladFX\Source\Repos\auronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\Presentor_MarkupCompile.cache
+C:\Users\GiladFX\Source\Repos\auronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\Presentor_MarkupCompile.lref
+C:\Users\GiladFX\Source\Repos\auronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\GiladFX\Source\Repos\auronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\Presentor.g.resources
+C:\Users\GiladFX\Source\Repos\auronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\Presentor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GiladFX\Source\Repos\auronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\Presentor.AssemblyInfoInputs.cache
+C:\Users\GiladFX\Source\Repos\auronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\Presentor.AssemblyInfo.cs
+C:\Users\GiladFX\Source\Repos\auronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\Presentor.csproj.CoreCompileInputs.cache
+C:\Users\GiladFX\Source\Repos\auronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\Presentor.csproj.CopyComplete
+C:\Users\GiladFX\Source\Repos\auronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\Presentor.dll
+C:\Users\GiladFX\Source\Repos\auronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\refint\Presentor.dll
+C:\Users\GiladFX\Source\Repos\auronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\Presentor.pdb
+C:\Users\GiladFX\Source\Repos\auronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\Presentor.genruntimeconfig.cache
+C:\Users\GiladFX\Source\Repos\auronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\ref\Presentor.dll

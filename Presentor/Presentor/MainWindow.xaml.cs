@@ -18,24 +18,24 @@ namespace Presentor
             
             var consumer = new Consumer();
 
-            consumer.Handler = (Event entity) =>
+            consumer.Handler = (Event e) =>
             {
                 Application.Current.Dispatcher.Invoke((Action)delegate
                 {
-                    RenderEntity(entity);
+                    RenderEntity(e);
                 });
             };
            
             consumer.Start();
         }
 
-        private void RenderEntity(Event entity)
+        private void RenderEntity(Event e)
         {
-            EllipseEntity el = new EllipseEntity(entity.X, entity.Y, 25, 25);
+            EllipseEntity el = new EllipseEntity(e.X, e.Y, 25, 25);
             var text = new TextBlock();
-            text.Text = entity.Name;
-            Canvas.SetTop(text, entity.Y + 26);
-            Canvas.SetLeft(text, entity.X);
+            text.Text = e.Name;
+            Canvas.SetTop(text, e.Y + 26);
+            Canvas.SetLeft(text, e.X);
 
             EntitiesMap.Children.Add(el.Create());
             EntitiesMap.Children.Add(text);

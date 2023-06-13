@@ -128,11 +128,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\תכנות\\פרוייקטים 2023\\aeronautics_task\\Old\\Creator\\Creator\\Creator.csproj",
+      "projectUniqueName": "C:\\Users\\GiladFX\\Source\\Repos\\auronautics_task\\Creator\\Creator\\Creator.csproj",
       "projectName": "Creator",
-      "projectPath": "D:\\תכנות\\פרוייקטים 2023\\aeronautics_task\\Old\\Creator\\Creator\\Creator.csproj",
+      "projectPath": "C:\\Users\\GiladFX\\Source\\Repos\\auronautics_task\\Creator\\Creator\\Creator.csproj",
       "packagesPath": "C:\\Users\\GiladFX\\.nuget\\packages\\",
-      "outputPath": "D:\\תכנות\\פרוייקטים 2023\\aeronautics_task\\Old\\Creator\\Creator\\obj\\",
+      "outputPath": "C:\\Users\\GiladFX\\Source\\Repos\\auronautics_task\\Creator\\Creator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

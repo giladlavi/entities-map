@@ -41,9 +41,9 @@ namespace Presentor
                         {
                             var body = ea.Body.ToArray();
                             var message = Encoding.UTF8.GetString(body);
-                            var entity = JsonSerializer.Deserialize<Event>(message);
-                            if (entity != null && Handler != null) {
-                                Handler(entity);
+                            var e = JsonSerializer.Deserialize<Event>(message);
+                            if (e != null && Handler != null) {
+                                Handler(e);
                             }
                         };
         }

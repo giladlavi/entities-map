@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\תכנות\\פרוייקטים 2023\\aeronautics_task\\Old\\Presentor\\Presentor\\Presentor.csproj": {}
+    "C:\\Users\\GiladFX\\Source\\Repos\\auronautics_task\\Presentor\\Presentor\\Presentor.csproj": {}
   },
   "projects": {
-    "D:\\תכנות\\פרוייקטים 2023\\aeronautics_task\\Old\\Presentor\\Presentor\\Presentor.csproj": {
+    "C:\\Users\\GiladFX\\Source\\Repos\\auronautics_task\\Presentor\\Presentor\\Presentor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\תכנות\\פרוייקטים 2023\\aeronautics_task\\Old\\Presentor\\Presentor\\Presentor.csproj",
+        "projectUniqueName": "C:\\Users\\GiladFX\\Source\\Repos\\auronautics_task\\Presentor\\Presentor\\Presentor.csproj",
         "projectName": "Presentor",
-        "projectPath": "D:\\תכנות\\פרוייקטים 2023\\aeronautics_task\\Old\\Presentor\\Presentor\\Presentor.csproj",
+        "projectPath": "C:\\Users\\GiladFX\\Source\\Repos\\auronautics_task\\Presentor\\Presentor\\Presentor.csproj",
         "packagesPath": "C:\\Users\\GiladFX\\.nuget\\packages\\",
-        "outputPath": "D:\\תכנות\\פרוייקטים 2023\\aeronautics_task\\Old\\Presentor\\Presentor\\obj\\",
+        "outputPath": "C:\\Users\\GiladFX\\Source\\Repos\\auronautics_task\\Presentor\\Presentor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -23,8 +23,8 @@ namespace Creator
 
         public void Publish(string name, double x, double y)
         {
-            var entity = new Event(name, x, y);
-            var body = Encoding.UTF8.GetBytes(JsonSerializer.Serialize(entity));
+            var e = new Event(name, x, y);
+            var body = Encoding.UTF8.GetBytes(JsonSerializer.Serialize(e));
             this.channel.BasicPublish(exchange: exchangeName,
                                  routingKey: "",
                                  basicProperties: null,

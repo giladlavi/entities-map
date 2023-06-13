@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "isIBa8uMQ+38szCL4L9I8PhMHMLld/NMuBWiPCt0Hj6JJ92P4hzpKqfkQVZ0XZbVeJ3vNXzhyXxPCZ0oweT6/w==",
+  "dgSpecHash": "dWOhVusObesIoTsRXQ60wTVnfT16/Yjrq78A1rrE70m0sI3YtGnb9YidvIuYp2nZ3Rtd03l+zY3WewENIhp3xQ==",
   "success": true,
-  "projectFilePath": "D:\\תכנות\\פרוייקטים 2023\\aeronautics_task\\Old\\Creator\\Creator\\Creator.csproj",
+  "projectFilePath": "C:\\Users\\GiladFX\\Source\\Repos\\auronautics_task\\Creator\\Creator\\Creator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GiladFX\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
     "C:\\Users\\GiladFX\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
