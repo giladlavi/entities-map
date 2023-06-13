@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Presentor_huo3khtl_wpftmp
+build_property.ProjectDir = D:\תכנות\פרוייקטים 2023\aeronautics_task\Presentor\Presentor\

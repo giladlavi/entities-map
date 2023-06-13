@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GiladFX\\Source\\Repos\\aeronautics_task\\Creator\\Creator\\Creator.csproj": {}
+    "D:\\תכנות\\פרוייקטים 2023\\aeronautics_task\\Old\\Creator\\Creator\\Creator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GiladFX\\Source\\Repos\\aeronautics_task\\Creator\\Creator\\Creator.csproj": {
+    "D:\\תכנות\\פרוייקטים 2023\\aeronautics_task\\Old\\Creator\\Creator\\Creator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GiladFX\\Source\\Repos\\aeronautics_task\\Creator\\Creator\\Creator.csproj",
+        "projectUniqueName": "D:\\תכנות\\פרוייקטים 2023\\aeronautics_task\\Old\\Creator\\Creator\\Creator.csproj",
         "projectName": "Creator",
-        "projectPath": "C:\\Users\\GiladFX\\Source\\Repos\\aeronautics_task\\Creator\\Creator\\Creator.csproj",
+        "projectPath": "D:\\תכנות\\פרוייקטים 2023\\aeronautics_task\\Old\\Creator\\Creator\\Creator.csproj",
         "packagesPath": "C:\\Users\\GiladFX\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GiladFX\\Source\\Repos\\aeronautics_task\\Creator\\Creator\\obj\\",
+        "outputPath": "D:\\תכנות\\פרוייקטים 2023\\aeronautics_task\\Old\\Creator\\Creator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

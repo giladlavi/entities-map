@@ -4,16 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Presentor
+namespace Creator
 {
-    public class Entity
+    public class Event
     {
-
         public double X { get; set; }
         public double Y { get; set; }
         public string Name { get; set; }
 
-        public Entity(string name, double x, double y)
+        public Event(string name, double x, double y)
         {
            X = x;
            Y = y;

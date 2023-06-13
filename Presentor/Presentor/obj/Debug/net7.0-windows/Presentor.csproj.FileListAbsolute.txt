@@ -21,3 +21,26 @@ C:\Users\GiladFX\Source\Repos\aeronautics_task\Presentor\Presentor\obj\Debug\net
 C:\Users\GiladFX\Source\Repos\aeronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\Presentor.pdb
 C:\Users\GiladFX\Source\Repos\aeronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\Presentor.genruntimeconfig.cache
 C:\Users\GiladFX\Source\Repos\aeronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\ref\Presentor.dll
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Presentor\Presentor\bin\Debug\net7.0-windows\Presentor.exe
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Presentor\Presentor\bin\Debug\net7.0-windows\Presentor.deps.json
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Presentor\Presentor\bin\Debug\net7.0-windows\Presentor.runtimeconfig.json
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Presentor\Presentor\bin\Debug\net7.0-windows\Presentor.dll
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Presentor\Presentor\bin\Debug\net7.0-windows\Presentor.pdb
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Presentor\Presentor\bin\Debug\net7.0-windows\RabbitMQ.Client.dll
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\Presentor.csproj.AssemblyReference.cache
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\App.g.cs
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\Presentor_MarkupCompile.cache
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\Presentor_MarkupCompile.lref
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\MainWindow.baml
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\Presentor.g.resources
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\Presentor.GeneratedMSBuildEditorConfig.editorconfig
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\Presentor.AssemblyInfoInputs.cache
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\Presentor.AssemblyInfo.cs
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\Presentor.csproj.CoreCompileInputs.cache
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\Presentor.csproj.CopyComplete
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\Presentor.dll
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\refint\Presentor.dll
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\Presentor.pdb
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\Presentor.genruntimeconfig.cache
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Presentor\Presentor\obj\Debug\net7.0-windows\ref\Presentor.dll

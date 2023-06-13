@@ -24,18 +24,12 @@ namespace Creator
     /// </summary>
     public partial class MainWindow : Window
     {
-        private IConnection conn;
-        private IModel channel;
-        const string exchangeName = "coordinates";
+        private Publisher publisher;
 
         public MainWindow()
         {
-            var factory = new ConnectionFactory { HostName = "localhost" };
-            this.conn = factory.CreateConnection();
-            this.channel = this.conn.CreateModel();
-            channel.ExchangeDeclare(exchange: exchangeName, type: "fanout");
-
             InitializeComponent();
+            this.publisher = new Publisher();
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
@@ -46,19 +40,8 @@ namespace Creator
             {
                 return;
             }
-           
-            var entity = new Entity(
-                EntityName.Text,
-                x,
-                y
-            );
 
-            var body = Encoding.UTF8.GetBytes(JsonSerializer.Serialize(entity));
-
-            this.channel.BasicPublish(exchange: exchangeName,
-                                 routingKey: "",
-                                 basicProperties: null,
-                                 body: body);
+            this.publisher.Publish(EntityName.Text, x, y);
         }
 
     }

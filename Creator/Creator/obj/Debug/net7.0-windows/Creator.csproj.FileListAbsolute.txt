@@ -21,3 +21,26 @@ C:\Users\GiladFX\Source\Repos\aeronautics_task\Creator\Creator\obj\Debug\net7.0-
 C:\Users\GiladFX\Source\Repos\aeronautics_task\Creator\Creator\obj\Debug\net7.0-windows\ref\Creator.dll
 C:\Users\GiladFX\Source\Repos\aeronautics_task\Creator\Creator\obj\Debug\net7.0-windows\MainWindow.g.cs
 C:\Users\GiladFX\Source\Repos\aeronautics_task\Creator\Creator\obj\Debug\net7.0-windows\MainWindow.baml
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Creator\Creator\bin\Debug\net7.0-windows\Creator.exe
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Creator\Creator\bin\Debug\net7.0-windows\Creator.deps.json
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Creator\Creator\bin\Debug\net7.0-windows\Creator.runtimeconfig.json
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Creator\Creator\bin\Debug\net7.0-windows\Creator.dll
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Creator\Creator\bin\Debug\net7.0-windows\Creator.pdb
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Creator\Creator\bin\Debug\net7.0-windows\RabbitMQ.Client.dll
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Creator\Creator\obj\Debug\net7.0-windows\Creator.csproj.AssemblyReference.cache
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Creator\Creator\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Creator\Creator\obj\Debug\net7.0-windows\App.g.cs
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Creator\Creator\obj\Debug\net7.0-windows\Creator_MarkupCompile.cache
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Creator\Creator\obj\Debug\net7.0-windows\Creator_MarkupCompile.lref
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Creator\Creator\obj\Debug\net7.0-windows\MainWindow.baml
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Creator\Creator\obj\Debug\net7.0-windows\Creator.g.resources
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Creator\Creator\obj\Debug\net7.0-windows\Creator.GeneratedMSBuildEditorConfig.editorconfig
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Creator\Creator\obj\Debug\net7.0-windows\Creator.AssemblyInfoInputs.cache
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Creator\Creator\obj\Debug\net7.0-windows\Creator.AssemblyInfo.cs
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Creator\Creator\obj\Debug\net7.0-windows\Creator.csproj.CoreCompileInputs.cache
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Creator\Creator\obj\Debug\net7.0-windows\Creator.csproj.CopyComplete
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Creator\Creator\obj\Debug\net7.0-windows\Creator.dll
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Creator\Creator\obj\Debug\net7.0-windows\refint\Creator.dll
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Creator\Creator\obj\Debug\net7.0-windows\Creator.pdb
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Creator\Creator\obj\Debug\net7.0-windows\Creator.genruntimeconfig.cache
+D:\תכנות\פרוייקטים 2023\aeronautics_task\Creator\Creator\obj\Debug\net7.0-windows\ref\Creator.dll

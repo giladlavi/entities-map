@@ -128,11 +128,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GiladFX\\Source\\Repos\\aeronautics_task\\Presentor\\Presentor\\Presentor.csproj",
+      "projectUniqueName": "D:\\תכנות\\פרוייקטים 2023\\aeronautics_task\\Old\\Presentor\\Presentor\\Presentor.csproj",
       "projectName": "Presentor",
-      "projectPath": "C:\\Users\\GiladFX\\Source\\Repos\\aeronautics_task\\Presentor\\Presentor\\Presentor.csproj",
+      "projectPath": "D:\\תכנות\\פרוייקטים 2023\\aeronautics_task\\Old\\Presentor\\Presentor\\Presentor.csproj",
       "packagesPath": "C:\\Users\\GiladFX\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GiladFX\\Source\\Repos\\aeronautics_task\\Presentor\\Presentor\\obj\\",
+      "outputPath": "D:\\תכנות\\פרוייקטים 2023\\aeronautics_task\\Old\\Presentor\\Presentor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
